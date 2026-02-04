@@ -1,0 +1,20 @@
+# Birthday wishes for my love 💕
+# Written with lots of love and smiles 😊
+
+love_name = "My Favorite Person"
+birthday_message = [
+    "Happy Birthday 🎉❤️",
+    "You are my favorite person in the world 🌍",
+    "Thank you for filling my life with love and happiness ✨",
+    "May your day be as beautiful as your smile 😊",
+    "I love you today, tomorrow, and always 💞"
+]
+
+print("🎂🎂🎂🎂🎂🎂🎂🎂🎂")
+print(f"Dear {love_name},\n")
+
+for line in birthday_message:
+    print(line)
+
+print("\n🎁 Stay happy, stay amazing!")
+print("🎂🎂🎂🎂🎂🎂🎂🎂🎂")
